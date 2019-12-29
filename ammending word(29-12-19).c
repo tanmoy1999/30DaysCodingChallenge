@@ -14,6 +14,8 @@ int main()
         i++;
 
     }
+    des[i]=' ';
+    i++;
     printf("%d\n",i);
     while(sou[j]!='\0')
     {
@@ -21,8 +23,8 @@ int main()
         i++;
         j++;
     }
-    printf("%s\n",j);
-    sou[i]='\0';
+    //printf("%s\n",j);
+    des[i]='\0';
     puts(des);
 
     return 0;
