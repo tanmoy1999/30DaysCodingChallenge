@@ -15,6 +15,7 @@ int main()
         }
     }
     return 0;
+<<<<<<< HEAD
 }*/
 
 #include<stdio.h>
@@ -38,4 +39,7 @@ int main()
     }
 
     return 0;
+=======
+
+>>>>>>> ae4e259c656e8b51e42a5eacd415c14a54fb2b69
 }
