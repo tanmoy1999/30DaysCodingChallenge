@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.h>
+//#include<string.h>
 int main()
 {
     char sou[100],des[100];
